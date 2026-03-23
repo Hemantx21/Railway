@@ -1,0 +1,9 @@
+Admin username: Hemant
+password=pass1
+
+
+
+
+//to run the code in vs code 
+gcc main.c -o main
+.\main.exe
